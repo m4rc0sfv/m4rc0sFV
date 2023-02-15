@@ -5,7 +5,7 @@
 
    ![Gif3](https://github.com/m4rc0sfv/m4rc0sFV/blob/master/gif3.gif)
 
-#### :computer: Casi Ingeniero en Sistemas Computacionales / :wrench: Técnico en informática 
+#### :computer: Desarrolador // Ingeniero en Sistemas Computacionales // :wrench: Técnico en informática 
 
  :heavy_check_mark: Python  :heavy_check_mark: Java   :heavy_check_mark: C++
  
